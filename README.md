@@ -1,6 +1,5 @@
-### Привет, я kiselKA 👋
-
 **Kiselev Klim** — Java Backend Developer (Middle).
+
 
 Разрабатываю AI-агентов на Java: бэкенд на Spring Boot, интеграции с LLM, REST API, реляционные БД. Тестирую всё — от юнит-тестов до API-контрактов.
 
