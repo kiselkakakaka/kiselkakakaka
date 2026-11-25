@@ -1,5 +1,6 @@
-**Kiselev Klim** — Java Backend Developer (Middle).
+### Привет, я kiselKA 👋
 
+**Kiselev Klim** — Java Backend Developer (Middle).
 
 Разрабатываю AI-агентов на Java: бэкенд на Spring Boot, интеграции с LLM, REST API, реляционные БД. Тестирую всё — от юнит-тестов до API-контрактов.
 
@@ -35,6 +36,7 @@
 
 | Проект | Описание | Стек |
 |---|---|---|
+| [java-agent-framework](https://github.com/kiselkakakaka/java-agent-framework) | Каркас AI-агента: LLM-роутинг на навыки, LLM-парсинг аргументов, веб-чат. Навыки — кодом или промптом | Java 21 · Spring Boot · OpenAI-совместимая LLM · JUnit 5 |
 | [java-shareit](https://github.com/kiselkakakaka/java-shareit) | Сервис аренды вещей: бронирования, отзывы, запросы вещей. Шлюз + сервер | Java 21 · Spring Boot · JPA · PostgreSQL · Docker |
 | [java-explore-with-me](https://github.com/kiselkakakaka/java-explore-with-me) | Афиша событий с заявками на участие и отдельным сервисом статистики просмотров | Java 21 · Spring Boot · JPA · PostgreSQL · Docker |
 | [java-filmorate](https://github.com/kiselkakakaka/java-filmorate) | Сервис фильмов и пользователей: лайки, дружба, жанры, MPA-рейтинги | Java 21 · Spring Boot · JdbcTemplate · SQL |
