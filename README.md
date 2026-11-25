@@ -49,6 +49,7 @@
 ![Серия коммитов](https://streak-stats.demolab.com?user=kiselkakakaka&hide_border=true&theme=tokyonight&locale=ru)
 
 ## 📫 Контакты
+[![Email](https://shields.io)](mailto:klim200387@gmail.com)
 
-[![Telegram](@klimkiselev)
-[![Email](klim200387@gmail.com)
+[![Telegram](https://shields.io)](https://t.me/klimkiselev)
+
