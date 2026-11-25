@@ -50,5 +50,5 @@
 
 ## 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@username-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/username)
-[![Email](https://img.shields.io/badge/Email-заменить%20на%20свой-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@username-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/klimkiselev)
+[![Email](https://img.shields.io/badge/Email-заменить%20на%20свой-D14836?style=flat-square&logo=gmail&logoColor=white)](klim200387@gmail.com)
